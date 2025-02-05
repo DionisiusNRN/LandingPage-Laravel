@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body class="bg-gray-100 min-h-screen max-w-full max-w-screen">
-    <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <header class="bg-white shadow-md p-4 flex justify-between items-center fixed top-0 left-0 w-full z-50">
         <h1 class="text-xl font-bold">UMY Alumni Tracer</h1>
 
         <!-- Tombol Burger -->
